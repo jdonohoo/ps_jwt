@@ -37,5 +37,10 @@
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "phantomjs-prebuilt": "^2.1.3"
   }
 }

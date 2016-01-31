@@ -42,5 +42,9 @@ fabric.properties
 
 #node modules
 node_modules
+
 #bower components
 bower_components
+
+#grunt
+.tmp/
